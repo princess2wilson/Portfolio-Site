@@ -4,5 +4,4 @@ This portfolio uses html,css and javascript to display some projects in a nice w
 
 Completely customised.
 
-See full site - www.princeesswilson.com
 
